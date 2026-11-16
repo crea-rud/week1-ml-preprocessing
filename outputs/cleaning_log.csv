@@ -1,0 +1,9 @@
+,count
+rows_raw,525
+duplicates_removed,25
+attendance_text_values_fixed,37
+impossible_values_set_to_nan,12
+rows_dropped_missing_target,8
+missing_values_filled,184
+outliers_capped,6
+rows_clean,492

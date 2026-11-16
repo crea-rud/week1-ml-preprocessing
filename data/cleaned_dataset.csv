@@ -1,0 +1,493 @@
+student_id,age,gender,department,study_hours_per_week,attendance_percent,sleep_hours,previous_score,internet_access,parental_education,extracurricular,final_score
+S0311,20,Male,Arts,12.5,64.0,8.9,62.6,Yes,Master,Yes,62.4
+S0391,20,Female,Electronics,13.1,76.6,8.1,65.3,Yes,Master,No,67.5
+S0007,17,Female,Electronics,14.7,92.6,6.9,67.5,No,Bachelor,Yes,69.4
+S0185,20,Male,Commerce,18.5,74.6,6.1,65.3,Yes,High School,Yes,67.5
+S0079,21,Female,Arts,14.9,83.3,8.1,54.0,Yes,High School,No,50.6
+S0408,18,Male,Computer Science,15.3,80.5,6.0,67.6,Yes,High School,Yes,70.1
+S0077,19,Female,Mechanical,16.0,60.1,7.3,85.7,Yes,High School,Yes,67.1
+S0488,21,Male,Electronics,12.0,77.9,5.6,81.3,Yes,Bachelor,Yes,65.3
+S0118,18,Female,Commerce,8.6,79.6,5.1,78.7,Yes,Master,No,74.0
+S0138,17,Female,Computer Science,18.4,82.8,7.5,85.0,Yes,Bachelor,Yes,75.1
+S0011,21,Male,Commerce,9.6,93.5,5.6,56.8,Yes,High School,No,57.6
+S0195,24,Male,Electronics,14.9,74.4,4.2,48.2,Yes,High School,Yes,55.0
+S0076,20,Female,Computer Science,19.9,79.6,5.1,58.7,Yes,Master,No,70.4
+S0440,20,Female,Commerce,12.7,67.1,5.9,63.1,Yes,Bachelor,No,58.9
+S0480,17,Female,Computer Science,11.8,80.4,6.4,65.3,Yes,Master,Yes,62.5
+S0141,24,Female,Electronics,26.5,85.7,5.5,53.5,Yes,Master,Yes,67.9
+S0003,22,Male,Computer Science,4.1,73.0,6.8,66.6,Yes,High School,Yes,55.8
+S0156,22,Female,Commerce,20.8,82.8,7.7,73.0,No,High School,Yes,70.6
+S0377,22,Female,Mechanical,6.7,82.3,5.9,82.3,Yes,High School,Yes,59.6
+S0132,21,Female,Mechanical,28.9,55.5,5.7,50.4,No,High School,Yes,65.0
+S0378,22,Male,Commerce,14.9,87.6,9.2,55.7,Yes,High School,No,56.0
+S0281,19,Female,Mechanical,12.9,81.1,8.0,58.2,Yes,High School,No,57.0
+S0292,19,Female,Commerce,18.0,93.5,7.8,58.5,Yes,Bachelor,No,68.5
+S0282,20,Female,Commerce,8.4,84.7,9.2,54.3,Yes,Bachelor,Yes,56.3
+S0334,23,Male,Commerce,10.2,86.0,9.0,72.3,Yes,Master,No,67.6
+S0288,21,Male,Electronics,11.3,72.0,7.1,74.6,Yes,Bachelor,No,68.3
+S0251,18,Female,Computer Science,20.9,71.2,6.0,65.4,Yes,Master,Yes,72.9
+S0465,17,Female,Computer Science,10.6,87.2,4.8,73.8,Yes,Bachelor,No,62.6
+S0437,21,Male,Electronics,12.0,79.2,5.6,68.8,Yes,Master,Yes,61.0
+S0125,23,Male,Commerce,29.499999999999996,97.7,8.0,81.7,Yes,Bachelor,Yes,85.9
+S0491,24,Male,Arts,16.4,93.0,6.8,71.0,No,Bachelor,No,61.3
+S0056,17,Male,Computer Science,18.6,100.0,6.3,75.8,Yes,PhD,No,73.5
+S0375,24,Other,Electronics,9.1,72.4,7.1,67.2,Yes,Bachelor,Yes,66.9
+S0339,18,Male,Electronics,11.5,93.9,6.8,52.4,Yes,Bachelor,Yes,58.9
+S0031,20,Male,Computer Science,21.3,88.1,7.3,79.3,Yes,Master,Yes,76.0
+S0074,18,Female,Commerce,14.9,60.9,9.3,64.2,Yes,Bachelor,No,63.3
+S0333,19,Male,Arts,4.3,87.9,6.5,71.8,Yes,Master,No,61.3
+S0069,17,Male,Mechanical,2.9,50.8,6.8,72.0,Yes,Bachelor,Yes,54.5
+S0010,17,Female,Electronics,19.7,100.0,5.9,67.5,Yes,Bachelor,No,80.1
+S0080,22,Male,Computer Science,2.2,76.4,6.3,57.8,Yes,Bachelor,Yes,53.7
+S0102,18,Male,Computer Science,26.0,74.5,7.2,57.5,Yes,High School,Yes,69.5
+S0105,23,Male,Computer Science,6.1,85.8,9.3,75.5,Yes,Bachelor,No,68.0
+S0278,23,Other,Electronics,14.9,86.5,6.0,87.8,No,High School,No,73.2
+S0133,17,Female,Arts,17.0,80.4,6.6,57.1,Yes,Master,Yes,68.0
+S0439,17,Female,Computer Science,18.2,69.8,8.2,70.9,Yes,High School,Yes,73.5
+S0326,18,Female,Electronics,24.1,83.5,7.5,64.0,Yes,Master,Yes,72.0
+S0073,20,Male,Computer Science,7.0,93.3,7.6,65.2,Yes,High School,No,59.7
+S0229,21,Female,Mechanical,6.7,65.3,5.7,65.3,Yes,Bachelor,Yes,52.8
+S0358,24,Male,Electronics,13.7,63.1,7.5,67.9,Yes,High School,No,67.8
+S0078,18,Female,Computer Science,12.4,79.9,8.1,63.5,Yes,Bachelor,No,57.7
+S0492,23,Male,Electronics,26.4,76.5,6.6,60.2,Yes,High School,Yes,80.6
+S0091,20,Male,Computer Science,13.5,81.1,7.2,53.0,No,Bachelor,Yes,71.0
+S0433,23,Male,Computer Science,14.3,68.7,8.6,76.7,Yes,High School,No,69.0
+S0085,22,Male,Commerce,8.1,73.2,6.2,73.0,Yes,High School,Yes,58.0
+S0219,20,Male,Mechanical,9.8,69.6,5.7,81.5,Yes,High School,Yes,71.5
+S0211,19,Female,Mechanical,16.1,79.3,6.9,55.5,No,High School,No,61.1
+S0181,24,Female,Computer Science,3.8,76.8,5.8,55.7,No,High School,Yes,46.5
+S0463,22,Female,Mechanical,20.9,85.8,8.5,77.1,Yes,High School,No,71.0
+S0350,18,Female,Computer Science,8.1,84.6,8.7,67.4,Yes,Bachelor,Yes,58.0
+S0337,24,Male,Commerce,5.6,89.2,5.0,78.9,Yes,High School,No,64.6
+S0235,20,Male,Computer Science,13.2,69.5,7.6,75.2,Yes,Master,No,73.5
+S0319,24,Male,Computer Science,20.9,79.6,7.1,47.8,Yes,Bachelor,Yes,67.9
+S0381,17,Female,Arts,17.3,81.1,5.0,90.6,Yes,Bachelor,Yes,78.0
+S0071,23,Female,Computer Science,15.4,88.3,7.3,70.4,Yes,High School,No,68.6
+S0399,19,Female,Electronics,14.7,90.9,6.1,87.6,No,High School,No,79.7
+S0149,23,Male,Computer Science,4.6,97.0,6.4,54.0,Yes,Bachelor,Yes,45.5
+S0064,24,Male,Mechanical,24.7,82.5,8.9,65.3,Yes,Bachelor,No,70.8
+S0362,24,Female,Electronics,7.4,79.6,7.2,53.0,Yes,High School,No,57.5
+S0090,23,Female,Mechanical,19.5,75.1,6.3,51.3,Yes,High School,No,62.8
+S0246,17,Female,Electronics,17.1,73.0,4.7,92.3,Yes,High School,No,68.0
+S0178,20,Female,Arts,23.9,70.6,7.6,70.9,Yes,Bachelor,Yes,71.5
+S0034,21,Male,Mechanical,4.2,83.8,6.0,58.4,Yes,Bachelor,No,55.7
+S0083,20,Female,Electronics,5.5,79.6,9.6,72.8,Yes,High School,Yes,54.6
+S0001,17,Female,Computer Science,1.0,67.8,5.8,63.0,Yes,Bachelor,No,47.0
+S0012,24,Female,Computer Science,18.1,81.2,7.1,59.8,No,High School,No,60.7
+S0248,20,Female,Computer Science,10.7,72.3,5.4,64.6,Yes,Bachelor,No,60.3
+S0023,18,Male,Mechanical,15.2,63.6,6.8,51.8,No,High School,No,51.5
+S0254,19,Female,Computer Science,6.8,78.9,8.3,65.3,No,High School,No,45.3
+S0427,23,Female,Electronics,6.2,78.9,7.4,62.4,Yes,High School,Yes,67.8
+S0226,19,Male,Mechanical,21.7,70.4,6.7,65.3,No,Bachelor,Yes,66.1
+S0317,22,Female,Electronics,14.9,95.7,8.1,63.6,Yes,High School,Yes,71.6
+S0159,21,Male,Computer Science,17.4,72.6,6.7,50.0,Yes,High School,No,50.0
+S0453,20,Male,Commerce,16.3,100.0,6.4,52.7,Yes,Master,Yes,62.3
+S0019,23,Male,Computer Science,7.9,77.4,5.4,89.2,Yes,Bachelor,Yes,65.1
+S0183,20,Female,Electronics,18.6,61.4,6.3,78.7,Yes,Bachelor,Yes,63.0
+S0336,20,Female,Commerce,17.4,66.5,7.3,84.9,Yes,PhD,Yes,66.6
+S0016,23,Male,Computer Science,18.4,80.5,7.1,47.3,Yes,High School,Yes,54.0
+S0387,17,Female,Electronics,14.7,83.1,6.2,50.8,No,Bachelor,Yes,54.3
+S0040,22,Male,Mechanical,16.8,73.2,4.2,66.6,Yes,Master,No,66.6
+S0486,18,Female,Computer Science,16.2,70.2,5.9,59.1,Yes,High School,Yes,58.3
+S0047,20,Other,Computer Science,21.0,65.9,4.2,55.3,Yes,Bachelor,Yes,60.5
+S0094,20,Female,Electronics,22.4,80.0,6.8,38.2,No,Bachelor,Yes,63.6
+S0168,18,Female,Computer Science,1.0,97.1,7.7,77.5,No,PhD,Yes,64.8
+S0210,23,Female,Mechanical,23.4,93.5,6.3,56.0,Yes,High School,No,67.0
+S0371,20,Female,Commerce,14.3,92.3,7.3,58.4,Yes,High School,Yes,59.1
+S0290,20,Female,Computer Science,17.0,83.0,7.3,43.3,Yes,High School,No,54.5
+S0469,18,Female,Commerce,11.8,57.7,7.9,55.0,Yes,Bachelor,No,58.2
+S0413,19,Male,Commerce,1.0,100.0,8.3,64.4,Yes,Master,Yes,54.6
+S0303,17,Male,Computer Science,10.7,79.7,6.8,56.2,Yes,Master,No,43.4
+S0432,22,Male,Computer Science,15.3,71.7,6.6,70.2,Yes,High School,Yes,71.7
+S0154,19,Male,Electronics,23.0,79.6,6.4,86.4,Yes,High School,No,86.3
+S0221,18,Male,Computer Science,16.4,63.8,6.5,54.4,Yes,Bachelor,Yes,52.0
+S0070,20,Female,Computer Science,19.8,68.2,7.1,79.9,Yes,Bachelor,No,73.5
+S0363,18,Other,Mechanical,15.2,79.6,5.9,65.3,Yes,Bachelor,No,64.1
+S0484,23,Male,Commerce,29.2,80.2,7.0,62.1,Yes,Master,Yes,80.0
+S0174,22,Male,Mechanical,8.5,82.4,7.5,67.0,Yes,Bachelor,Yes,60.7
+S0353,19,Female,Commerce,8.0,91.6,7.0,68.6,Yes,Bachelor,Yes,56.6
+S0232,23,Male,Commerce,16.7,58.4,9.7,65.3,Yes,High School,Yes,67.8
+S0212,22,Male,Electronics,9.5,65.7,8.0,77.6,Yes,Bachelor,Yes,61.8
+S0193,21,Female,Computer Science,16.5,80.4,7.1,81.0,Yes,Bachelor,No,76.4
+S0447,19,Female,Computer Science,29.3,73.7,6.8,64.3,No,High School,No,72.9
+S0325,24,Female,Arts,9.4,68.1,7.5,53.3,No,Bachelor,No,57.2
+S0223,22,Male,Computer Science,12.4,79.6,5.7,40.3,Yes,High School,No,46.4
+S0155,20,Other,Arts,22.5,75.6,5.8,65.9,Yes,Bachelor,No,67.6
+S0423,23,Other,Computer Science,4.4,79.6,6.4,65.3,Yes,Bachelor,Yes,63.4
+S0177,22,Male,Computer Science,11.0,92.3,4.6,53.6,Yes,High School,Yes,59.1
+S0361,23,Female,Computer Science,14.9,80.7,6.7,82.7,No,Bachelor,No,67.2
+S0416,22,Female,Arts,21.5,92.8,6.8,70.2,Yes,Bachelor,Yes,69.8
+S0205,20,Male,Arts,20.8,76.2,6.8,50.7,Yes,High School,Yes,61.7
+S0341,22,Female,Computer Science,6.7,84.4,7.2,58.7,Yes,Bachelor,Yes,49.2
+S0279,17,Female,Commerce,11.3,82.8,7.6,64.2,Yes,Bachelor,Yes,66.5
+S0456,21,Female,Computer Science,10.8,72.6,6.1,48.4,Yes,Bachelor,Yes,54.7
+S0365,17,Male,Arts,1.7,54.1,6.8,47.4,Yes,Bachelor,Yes,35.8
+S0087,17,Male,Commerce,15.3,79.5,6.3,61.4,Yes,Bachelor,Yes,67.5
+S0196,17,Female,Computer Science,18.1,85.2,6.2,72.6,Yes,Bachelor,No,66.8
+S0407,20,Female,Computer Science,18.5,86.7,6.0,69.7,Yes,Bachelor,No,70.8
+S0020,20,Male,Mechanical,15.5,62.7,8.5,58.5,Yes,Master,No,67.3
+S0349,18,Other,Arts,10.1,83.3,8.3,99.6,Yes,Master,No,82.2
+S0057,21,Male,Commerce,24.2,74.6,7.3,78.5,Yes,Bachelor,No,73.8
+S0372,22,Female,Computer Science,5.3,89.3,7.9,75.4,Yes,Bachelor,No,64.8
+S0348,24,Female,Commerce,15.8,100.0,6.9,67.8,Yes,Bachelor,Yes,63.5
+S0479,22,Male,Arts,6.7,68.0,6.7,66.2,Yes,Master,No,50.0
+S0249,23,Male,Arts,9.9,76.7,6.6,69.3,Yes,Master,No,66.6
+S0026,22,Male,Arts,24.3,81.3,6.8,84.5,Yes,Bachelor,Yes,85.6
+S0452,24,Male,Mechanical,10.8,95.0,6.9,69.8,Yes,Master,Yes,63.6
+S0043,22,Female,Electronics,14.9,100.0,7.2,73.9,Yes,Bachelor,No,71.4
+S0474,20,Female,Mechanical,16.5,74.4,6.5,54.9,Yes,High School,No,52.5
+S0262,18,Female,Mechanical,14.9,89.2,6.8,69.5,No,Master,Yes,73.9
+S0173,23,Male,Mechanical,22.5,67.2,5.0,72.2,Yes,High School,Yes,66.3
+S0291,23,Other,Computer Science,13.7,63.1,6.8,61.3,Yes,Bachelor,Yes,64.3
+S0127,17,Female,Electronics,10.2,73.0,8.4,62.6,Yes,High School,No,64.3
+S0343,21,Male,Computer Science,10.6,74.1,4.5,58.8,No,Bachelor,Yes,62.1
+S0032,18,Male,Arts,15.4,79.6,6.1,81.2,Yes,Master,No,61.9
+S0114,20,Male,Mechanical,5.5,98.7,8.4,91.9,Yes,Bachelor,Yes,72.4
+S0230,18,Male,Computer Science,23.6,53.8,7.6,60.9,Yes,High School,No,58.0
+S0228,21,Female,Electronics,17.2,81.1,7.4,82.7,Yes,High School,Yes,77.1
+S0430,22,Male,Computer Science,18.9,84.7,5.7,68.6,No,PhD,No,63.4
+S0058,18,Female,Computer Science,23.7,80.9,5.6,73.1,Yes,Bachelor,No,77.2
+S0382,24,Female,Mechanical,17.7,89.4,5.9,49.1,Yes,PhD,Yes,66.1
+S0025,23,Female,Computer Science,18.7,70.2,5.8,99.4,Yes,High School,No,83.6
+S0018,18,Male,Computer Science,8.3,79.6,5.6,46.8,Yes,Bachelor,No,48.8
+S0266,21,Female,Computer Science,25.2,85.9,6.5,97.2,Yes,Master,Yes,90.4
+S0067,24,Male,Arts,22.2,89.7,8.2,86.1,Yes,High School,No,87.7
+S0315,18,Female,Electronics,2.2,82.5,8.0,53.2,Yes,High School,No,51.5
+S0095,24,Female,Computer Science,1.0,80.5,8.2,68.9,Yes,Bachelor,No,57.2
+S0457,18,Female,Mechanical,14.5,69.8,7.6,79.9,Yes,High School,Yes,77.5
+S0355,24,Other,Computer Science,19.4,86.4,4.8,94.1,Yes,Bachelor,Yes,68.1
+S0024,24,Female,Commerce,18.4,77.7,6.7,61.7,Yes,Bachelor,Yes,65.6
+S0250,17,Female,Computer Science,17.8,77.2,5.5,54.7,Yes,Bachelor,Yes,59.8
+S0273,18,Male,Arts,20.3,82.4,6.9,67.9,Yes,Bachelor,Yes,67.6
+S0006,23,Female,Computer Science,22.9,63.9,5.2,49.8,Yes,Bachelor,No,64.0
+S0117,17,Female,Arts,3.7,89.0,5.8,52.2,Yes,Bachelor,No,49.4
+S0046,24,Female,Electronics,14.9,80.8,7.4,77.2,Yes,High School,No,72.8
+S0500,20,Female,Arts,14.3,100.0,5.5,50.6,Yes,PhD,Yes,62.9
+S0395,22,Female,Electronics,13.7,70.4,7.7,46.9,Yes,Bachelor,No,57.0
+S0017,21,Male,Computer Science,11.7,78.9,7.3,48.6,Yes,High School,Yes,47.4
+S0490,20,Male,Computer Science,1.0,87.3,8.1,80.5,Yes,High School,Yes,61.0
+S0376,17,Male,Mechanical,14.9,85.6,7.5,78.6,Yes,Bachelor,No,74.4
+S0004,20,Male,Electronics,1.5,73.7,6.7,67.3,Yes,High School,Yes,54.4
+S0489,23,Male,Computer Science,15.8,79.6,7.7,60.7,Yes,Master,Yes,54.0
+S0449,21,Female,Computer Science,14.4,79.6,6.4,72.8,Yes,Master,Yes,72.8
+S0061,24,Male,Computer Science,11.3,93.4,6.9,59.0,Yes,High School,No,59.2
+S0111,19,Female,Commerce,16.4,69.4,4.2,65.1,Yes,High School,No,69.1
+S0335,20,Female,Arts,18.3,81.2,4.9,77.4,Yes,Bachelor,No,64.2
+S0275,20,Male,Commerce,17.0,70.3,8.3,68.1,Yes,Bachelor,No,77.7
+S0030,20,Female,Arts,14.9,64.3,7.8,40.1,Yes,Bachelor,No,53.8
+S0366,21,Female,Computer Science,17.1,69.0,8.3,79.7,Yes,Bachelor,Yes,76.9
+S0186,20,Male,Computer Science,6.5,67.1,7.4,76.3,Yes,High School,No,54.0
+S0027,20,Male,Mechanical,22.7,75.3,8.2,53.1,Yes,Bachelor,No,66.7
+S0008,22,Male,Arts,14.9,63.2,6.0,83.1,Yes,Bachelor,Yes,72.7
+S0182,18,Female,Electronics,26.2,73.0,5.5,48.1,Yes,PhD,No,75.8
+S0478,17,Male,Electronics,5.6,68.8,5.7,53.5,Yes,Bachelor,No,49.1
+S0109,20,Female,Electronics,14.9,94.7,8.1,74.5,Yes,Bachelor,No,72.1
+S0158,21,Female,Computer Science,14.9,73.3,6.5,55.5,Yes,High School,Yes,70.6
+S0494,20,Male,Computer Science,16.6,85.3,4.0,69.5,No,Bachelor,No,60.3
+S0119,18,Male,Computer Science,20.3,66.6,7.1,78.6,Yes,Master,Yes,77.4
+S0115,21,Female,Computer Science,14.3,69.5,7.0,41.7,No,Bachelor,Yes,43.0
+S0272,17,Male,Commerce,10.1,76.5,6.7,58.7,Yes,PhD,No,55.9
+S0176,20,Female,Computer Science,9.5,86.5,6.8,60.3,Yes,High School,Yes,63.2
+S0209,19,Female,Electronics,17.3,79.6,8.5,47.2,Yes,Bachelor,No,52.1
+S0204,22,Male,Computer Science,21.0,92.3,6.1,90.6,No,High School,No,75.6
+S0145,24,Male,Commerce,12.5,84.7,8.1,60.2,Yes,Bachelor,Yes,50.4
+S0389,24,Female,Computer Science,22.6,71.4,6.7,75.9,Yes,PhD,Yes,75.8
+S0401,24,Male,Computer Science,10.9,85.9,4.8,65.3,Yes,Bachelor,No,62.0
+S0424,21,Female,Commerce,20.8,90.2,6.6,79.9,No,Bachelor,No,78.5
+S0498,19,Male,Computer Science,1.3,79.6,7.6,65.3,No,Master,Yes,57.4
+S0403,19,Female,Computer Science,29.499999999999996,80.8,6.8,55.7,Yes,Bachelor,Yes,75.3
+S0470,24,Female,Computer Science,22.4,68.0,6.8,72.9,No,PhD,Yes,70.2
+S0142,18,Male,Arts,17.8,71.7,4.4,87.1,Yes,Bachelor,Yes,74.5
+S0385,17,Male,Arts,24.5,58.3,4.7,93.2,Yes,High School,Yes,81.9
+S0068,19,Female,Mechanical,2.0,81.1,6.8,55.7,Yes,Master,No,53.3
+S0169,19,Male,Electronics,13.1,74.5,6.8,75.5,Yes,Master,No,66.0
+S0189,18,Female,Arts,13.8,87.2,7.1,79.3,No,High School,Yes,68.3
+S0462,18,Female,Commerce,5.3,79.6,7.2,40.3,Yes,High School,Yes,45.6
+S0396,23,Female,Electronics,12.7,82.5,5.3,53.6,Yes,Master,No,46.3
+S0238,20,Male,Computer Science,18.1,82.9,6.4,75.6,Yes,Bachelor,No,70.0
+S0194,19,Male,Electronics,18.9,81.8,6.4,65.3,Yes,Bachelor,No,64.2
+S0082,20,Male,Mechanical,20.1,76.1,7.8,74.5,No,Bachelor,Yes,74.7
+S0110,22,Female,Mechanical,5.6,87.7,6.8,50.6,Yes,High School,Yes,49.2
+S0461,22,Other,Commerce,13.6,84.0,6.5,75.9,Yes,Master,Yes,68.9
+S0146,23,Male,Arts,13.5,63.2,8.5,52.5,Yes,Bachelor,No,66.8
+S0093,23,Female,Mechanical,9.0,85.7,8.9,89.2,No,Master,Yes,78.9
+S0153,24,Female,Computer Science,8.2,77.5,8.0,72.1,Yes,Bachelor,Yes,59.8
+S0245,22,Female,Arts,25.7,76.6,4.8,67.6,Yes,Bachelor,No,74.3
+S0415,17,Male,Computer Science,17.3,85.1,5.9,54.8,Yes,Bachelor,Yes,68.9
+S0084,23,Female,Commerce,11.0,78.2,6.0,61.4,No,High School,No,65.8
+S0104,17,Female,Arts,17.3,91.2,7.2,75.9,No,Bachelor,No,70.4
+S0166,23,Male,Arts,23.8,60.5,6.7,70.5,No,High School,No,60.9
+S0164,20,Female,Arts,16.1,100.0,6.0,57.5,Yes,Master,No,56.3
+S0200,24,Female,Electronics,22.6,50.100000000000016,5.2,33.7,Yes,Bachelor,Yes,46.3
+S0256,20,Female,Electronics,14.9,89.6,6.8,64.5,Yes,Bachelor,Yes,62.4
+S0075,22,Female,Commerce,27.0,83.6,7.9,56.9,Yes,High School,No,74.7
+S0324,24,Female,Arts,4.9,92.0,5.0,63.7,Yes,Master,No,57.5
+S0239,19,Female,Electronics,14.4,58.7,7.4,60.9,Yes,Bachelor,No,60.1
+S0497,17,Male,Mechanical,11.5,89.5,6.7,65.6,No,High School,No,55.7
+S0120,17,Female,Computer Science,16.6,85.0,6.8,65.3,Yes,Bachelor,No,52.1
+S0305,21,Male,Computer Science,13.1,87.0,7.4,70.3,Yes,High School,Yes,63.9
+S0313,17,Female,Computer Science,22.2,86.8,6.7,75.3,Yes,Bachelor,No,86.3
+S0267,20,Male,Commerce,17.7,82.0,8.8,63.7,Yes,Master,No,60.3
+S0422,22,Female,Commerce,21.5,75.8,8.1,49.3,No,Bachelor,No,55.6
+S0493,23,Female,Electronics,12.3,74.5,7.2,71.7,Yes,Bachelor,No,66.1
+S0306,18,Male,Commerce,3.4,85.7,4.9,36.4,Yes,High School,Yes,41.6
+S0393,19,Male,Commerce,18.0,96.8,5.7,75.6,Yes,High School,Yes,72.5
+S0438,24,Female,Arts,22.6,88.8,4.7,52.3,No,Bachelor,No,62.2
+S0404,20,Male,Computer Science,4.3,81.3,7.8,62.9,Yes,Bachelor,No,61.6
+S0285,20,Male,Electronics,19.3,73.6,6.2,76.5,Yes,High School,Yes,83.1
+S0287,18,Female,Electronics,11.6,74.6,7.4,82.5,Yes,Bachelor,Yes,59.0
+S0037,23,Male,Commerce,20.8,70.7,5.7,70.5,Yes,Bachelor,No,68.9
+S0197,19,Other,Commerce,12.5,70.6,5.8,58.2,Yes,High School,Yes,56.1
+S0140,20,Female,Commerce,17.1,88.1,7.0,68.4,No,High School,Yes,67.9
+S0384,18,Male,Commerce,16.4,70.3,7.1,55.8,Yes,PhD,Yes,61.3
+S0263,19,Male,Electronics,27.6,57.3,4.6,54.0,Yes,Bachelor,No,69.6
+S0298,20,Male,Commerce,18.3,100.0,8.7,60.1,Yes,Bachelor,No,68.0
+S0299,19,Female,Arts,20.4,79.6,7.0,59.1,Yes,Bachelor,No,70.0
+S0060,22,Male,Arts,17.2,100.0,7.8,62.7,Yes,High School,No,68.4
+S0112,23,Male,Commerce,20.8,88.1,7.4,63.4,Yes,High School,No,66.7
+S0276,20,Male,Electronics,16.1,63.7,6.8,84.4,No,High School,Yes,77.7
+S0269,21,Male,Computer Science,15.7,80.4,7.0,62.3,No,PhD,No,57.8
+S0412,18,Female,Commerce,21.8,82.3,6.6,72.8,No,High School,No,73.2
+S0151,23,Male,Electronics,12.7,83.5,9.6,49.8,Yes,High School,Yes,55.4
+S0357,18,Female,Computer Science,15.2,79.6,9.3,77.0,Yes,High School,No,71.2
+S0039,19,Female,Commerce,10.2,72.1,6.8,42.3,Yes,High School,No,52.8
+S0330,21,Male,Electronics,14.4,70.8,7.7,58.1,Yes,High School,Yes,59.7
+S0199,19,Male,Arts,14.9,86.6,4.9,65.0,Yes,Bachelor,Yes,56.3
+S0451,24,Male,Mechanical,22.1,87.3,6.3,56.0,Yes,Bachelor,No,60.7
+S0147,17,Female,Computer Science,12.7,87.9,8.5,44.4,Yes,High School,No,55.2
+S0148,18,Male,Computer Science,20.5,67.0,5.7,73.9,Yes,High School,No,74.4
+S0322,17,Female,Mechanical,9.2,88.8,8.0,71.8,Yes,High School,No,62.0
+S0300,20,Male,Computer Science,3.0,79.9,7.7,66.7,Yes,High School,No,54.8
+S0124,20,Female,Electronics,18.9,76.9,7.7,68.2,Yes,Master,No,76.0
+S0454,17,Female,Commerce,15.0,59.5,6.5,56.3,No,Bachelor,No,53.8
+S0097,18,Female,Electronics,7.9,56.6,7.7,56.1,Yes,High School,No,57.8
+S0144,20,Female,Computer Science,12.0,92.5,7.2,66.8,No,Bachelor,No,63.8
+S0240,22,Female,Commerce,12.6,72.2,5.9,29.8,Yes,Bachelor,Yes,41.5
+S0332,19,Female,Arts,13.6,68.1,6.3,59.8,Yes,PhD,Yes,56.1
+S0098,22,Male,Commerce,19.8,56.3,7.1,59.9,Yes,Bachelor,Yes,56.9
+S0417,24,Female,Commerce,7.7,81.2,6.9,65.3,Yes,Master,Yes,59.2
+S0369,17,Male,Computer Science,18.3,79.6,6.7,68.2,Yes,High School,Yes,62.0
+S0123,22,Male,Arts,17.8,82.6,9.8,72.8,Yes,Bachelor,Yes,73.3
+S0184,22,Female,Commerce,13.9,85.4,6.6,66.1,Yes,Bachelor,No,63.8
+S0203,20,Female,Computer Science,28.4,72.6,6.0,87.1,Yes,Bachelor,No,79.5
+S0247,23,Male,Mechanical,20.8,82.0,5.4,47.2,Yes,Bachelor,Yes,61.1
+S0321,19,Male,Arts,27.1,81.4,6.6,80.3,Yes,Bachelor,No,82.4
+S0312,22,Male,Mechanical,21.5,62.3,7.6,65.2,Yes,High School,No,60.9
+S0370,23,Male,Arts,10.8,81.9,7.2,57.7,No,Bachelor,No,56.5
+S0495,19,Female,Electronics,21.1,87.3,7.1,79.3,Yes,High School,No,74.5
+S0418,17,Other,Mechanical,10.0,100.0,6.8,55.6,Yes,High School,Yes,50.6
+S0297,23,Male,Computer Science,15.4,64.8,6.1,98.0,Yes,Master,No,72.3
+S0126,21,Male,Arts,13.7,69.2,7.7,66.1,Yes,Bachelor,Yes,65.5
+S0224,18,Male,Arts,1.0,66.1,7.1,84.9,No,Master,No,53.6
+S0441,24,Male,Electronics,13.6,82.7,6.8,56.5,Yes,High School,Yes,59.1
+S0220,24,Female,Computer Science,5.2,95.5,6.9,79.8,Yes,High School,No,67.6
+S0130,22,Female,Mechanical,11.8,62.0,6.6,75.2,Yes,Bachelor,Yes,64.5
+S0443,18,Male,Arts,17.3,84.0,7.1,100.0,No,High School,No,85.5
+S0302,23,Male,Computer Science,14.9,81.9,6.2,57.1,Yes,High School,Yes,67.3
+S0406,21,Male,Computer Science,14.9,89.3,6.8,47.5,Yes,High School,Yes,57.6
+S0398,18,Female,Commerce,13.5,86.0,7.7,82.0,Yes,High School,Yes,69.3
+S0429,20,Male,Computer Science,1.0,100.0,5.7,61.8,Yes,High School,No,47.4
+S0374,19,Male,Computer Science,20.7,74.4,8.4,52.3,No,Master,No,52.4
+S0308,21,Female,Computer Science,1.0,70.5,8.8,86.0,No,Bachelor,Yes,65.9
+S0295,21,Male,Computer Science,27.0,94.3,7.8,61.2,Yes,High School,No,77.2
+S0458,22,Female,Electronics,5.4,67.1,8.4,74.6,Yes,Master,Yes,61.7
+S0113,21,Male,Commerce,16.8,90.3,4.4,90.8,Yes,Master,No,79.1
+S0180,21,Female,Commerce,17.8,54.1,7.1,55.7,Yes,Bachelor,No,58.9
+S0323,21,Female,Electronics,19.5,74.4,5.8,66.9,Yes,Master,Yes,65.0
+S0356,24,Female,Commerce,5.5,77.6,7.3,53.2,Yes,Bachelor,Yes,50.6
+S0347,24,Female,Computer Science,12.6,62.6,7.2,81.5,Yes,High School,Yes,65.9
+S0394,21,Male,Commerce,14.9,79.6,6.6,65.3,Yes,Bachelor,No,63.7
+S0472,20,Male,Computer Science,18.8,80.2,7.0,45.8,No,PhD,No,55.5
+S0477,23,Male,Electronics,14.9,88.7,5.4,45.1,Yes,Bachelor,Yes,49.3
+S0165,20,Male,Arts,16.7,97.1,6.8,53.4,Yes,Bachelor,No,59.7
+S0318,20,Male,Commerce,14.9,74.1,7.4,73.0,Yes,Bachelor,No,67.6
+S0137,21,Female,Electronics,13.5,72.3,7.5,62.8,Yes,Bachelor,Yes,59.3
+S0198,17,Female,Arts,28.4,86.1,8.5,91.4,Yes,High School,No,100.0
+S0259,18,Female,Commerce,14.9,81.3,7.2,64.6,No,High School,Yes,68.5
+S0233,17,Female,Commerce,29.0,71.0,6.8,87.4,No,High School,Yes,85.2
+S0116,21,Male,Arts,19.5,77.3,6.8,99.9,No,Bachelor,No,76.7
+S0121,20,Female,Commerce,17.5,86.9,6.8,71.9,Yes,Master,Yes,55.2
+S0419,19,Male,Commerce,15.9,75.5,6.7,65.7,Yes,High School,Yes,75.6
+S0225,22,Male,Electronics,7.5,71.9,7.9,59.4,No,Bachelor,Yes,53.2
+S0425,20,Female,Mechanical,15.0,83.8,7.5,72.5,Yes,High School,No,68.1
+S0354,20,Female,Commerce,16.0,79.6,7.3,71.1,Yes,High School,No,66.9
+S0128,23,Male,Electronics,17.6,80.1,6.6,80.3,Yes,Bachelor,No,71.8
+S0286,24,Male,Mechanical,7.9,100.0,8.2,60.3,Yes,High School,No,60.4
+S0434,18,Male,Computer Science,22.0,91.2,6.2,63.4,Yes,High School,Yes,69.6
+S0108,22,Female,Arts,11.6,89.2,6.8,69.2,Yes,High School,Yes,65.7
+S0442,19,Female,Electronics,5.6,79.6,6.2,54.1,No,PhD,Yes,50.1
+S0342,19,Male,Mechanical,11.2,87.0,6.4,49.1,Yes,Bachelor,Yes,47.9
+S0134,21,Male,Electronics,10.6,66.6,6.0,56.3,Yes,High School,No,52.6
+S0383,24,Male,Computer Science,16.9,90.4,8.2,83.6,Yes,Bachelor,Yes,73.8
+S0045,17,Female,Computer Science,25.4,67.6,8.0,65.3,Yes,Bachelor,No,86.7
+S0487,19,Male,Computer Science,8.2,73.5,7.7,57.0,Yes,High School,Yes,57.7
+S0066,19,Male,Arts,13.7,79.6,6.8,50.8,Yes,Bachelor,No,53.9
+S0284,20,Female,Arts,8.1,78.9,4.4,97.6,Yes,Bachelor,Yes,77.0
+S0086,22,Female,Mechanical,9.2,74.7,6.5,56.0,Yes,PhD,No,55.7
+S0243,17,Female,Commerce,28.8,90.9,7.9,72.4,Yes,Bachelor,Yes,77.5
+S0187,18,Male,Arts,22.1,73.3,6.3,57.2,Yes,High School,No,63.4
+S0405,20,Female,Mechanical,16.9,82.6,6.0,65.3,Yes,Master,No,61.4
+S0160,23,Other,Computer Science,5.4,65.7,8.6,38.5,Yes,Master,No,37.6
+S0013,22,Male,Computer Science,19.4,68.7,7.0,52.3,Yes,High School,No,58.9
+S0036,17,Male,Electronics,5.6,90.7,8.1,75.5,Yes,Bachelor,Yes,65.7
+S0029,21,Female,Commerce,25.1,86.1,5.3,53.4,Yes,High School,No,68.4
+S0171,17,Female,Computer Science,4.5,55.9,7.6,65.0,Yes,Bachelor,No,48.3
+S0143,19,Female,Computer Science,12.7,78.0,7.0,64.1,Yes,Bachelor,No,62.2
+S0421,24,Male,Electronics,16.7,70.4,8.1,57.6,Yes,High School,Yes,65.5
+S0368,19,Male,Commerce,14.1,79.6,7.9,49.5,Yes,Master,No,50.4
+S0222,20,Male,Computer Science,14.5,99.3,5.7,27.350000000000016,No,High School,No,41.2
+S0096,19,Female,Arts,12.9,91.5,7.1,45.7,Yes,PhD,No,51.1
+S0052,18,Female,Electronics,14.9,78.3,7.7,55.3,Yes,Bachelor,Yes,60.3
+S0241,18,Female,Mechanical,23.8,82.6,6.3,35.2,Yes,Master,No,61.9
+S0397,17,Male,Commerce,16.7,84.7,5.0,68.3,Yes,Master,Yes,71.6
+S0352,17,Female,Electronics,11.2,77.9,5.8,65.1,Yes,Bachelor,Yes,58.6
+S0400,19,Male,Arts,15.5,82.4,6.4,75.9,Yes,High School,No,67.9
+S0179,24,Male,Mechanical,11.7,66.4,6.8,63.7,Yes,High School,No,58.5
+S0042,23,Male,Electronics,11.2,87.5,5.5,48.2,No,Bachelor,Yes,57.4
+S0496,20,Female,Computer Science,14.0,74.8,6.7,57.3,Yes,Master,No,50.5
+S0409,24,Female,Electronics,19.6,70.3,8.5,74.6,Yes,Master,No,70.2
+S0207,23,Other,Commerce,13.7,66.9,4.8,54.9,Yes,High School,Yes,59.0
+S0283,22,Male,Mechanical,16.9,79.6,6.7,48.1,Yes,Bachelor,No,50.3
+S0359,17,Female,Arts,17.0,56.3,6.8,43.0,Yes,Bachelor,Yes,45.9
+S0255,22,Female,Mechanical,6.4,74.8,7.5,93.4,Yes,Master,No,75.6
+S0435,20,Female,Computer Science,14.9,75.6,7.1,65.3,Yes,High School,No,70.8
+S0005,20,Male,Commerce,7.8,87.3,6.1,79.6,Yes,High School,No,72.0
+S0257,22,Male,Arts,15.7,77.2,6.3,79.4,Yes,High School,Yes,73.0
+S0473,20,Male,Arts,11.8,78.5,4.9,51.3,Yes,Master,No,59.6
+S0101,23,Female,Computer Science,18.4,82.0,7.3,65.1,Yes,High School,No,55.5
+S0227,23,Male,Electronics,11.0,64.7,6.9,88.0,Yes,Bachelor,Yes,76.3
+S0450,20,Male,Commerce,25.8,87.6,5.2,74.5,Yes,Bachelor,Yes,79.5
+S0214,20,Male,Computer Science,20.5,67.8,6.2,68.9,Yes,Master,No,72.0
+S0445,21,Female,Arts,19.5,88.1,6.8,44.6,Yes,Master,Yes,63.6
+S0172,17,Male,Commerce,15.6,83.2,6.1,69.2,Yes,High School,Yes,59.6
+S0293,24,Female,Commerce,2.4,78.9,8.5,37.4,Yes,High School,No,40.0
+S0216,19,Female,Electronics,14.9,88.8,8.8,60.6,Yes,Bachelor,Yes,70.8
+S0062,22,Male,Computer Science,15.1,83.6,4.0,100.0,Yes,Bachelor,Yes,90.2
+S0048,24,Female,Computer Science,15.6,70.7,5.9,42.4,Yes,Bachelor,Yes,55.0
+S0033,17,Male,Electronics,12.5,73.1,5.1,79.6,Yes,Bachelor,No,68.5
+S0268,19,Female,Commerce,18.4,73.3,5.8,86.6,Yes,High School,No,79.7
+S0328,17,Female,Electronics,20.0,87.9,7.2,63.3,Yes,Bachelor,Yes,70.2
+S0201,19,Male,Mechanical,14.9,94.3,8.0,70.0,Yes,PhD,No,78.2
+S0471,22,Female,Computer Science,11.2,79.6,5.2,74.7,Yes,High School,No,47.8
+S0028,23,Female,Computer Science,14.9,97.7,5.9,74.1,Yes,Bachelor,No,70.5
+S0411,18,Male,Computer Science,16.2,79.7,6.2,68.4,Yes,High School,No,63.9
+S0231,20,Male,Arts,14.1,75.4,7.7,63.2,Yes,Bachelor,Yes,63.9
+S0261,23,Male,Commerce,13.9,63.9,5.8,66.7,No,Bachelor,Yes,55.5
+S0379,20,Female,Commerce,14.0,81.6,7.3,78.1,Yes,Bachelor,Yes,75.7
+S0289,21,Male,Electronics,23.0,85.2,7.9,92.5,Yes,Bachelor,Yes,81.5
+S0163,20,Male,Arts,18.3,88.8,7.4,46.5,Yes,PhD,No,57.1
+S0392,18,Female,Commerce,23.1,73.9,5.8,65.6,Yes,Bachelor,No,66.1
+S0448,24,Female,Commerce,8.4,68.7,6.0,72.7,Yes,Bachelor,No,57.0
+S0139,19,Male,Computer Science,7.2,76.4,6.8,84.2,No,Master,Yes,63.8
+S0063,19,Male,Arts,11.4,63.8,5.4,72.8,Yes,High School,Yes,51.0
+S0129,21,Male,Mechanical,17.6,90.5,4.5,73.1,Yes,Bachelor,Yes,68.3
+S0009,18,Male,Computer Science,17.5,72.0,6.8,40.7,Yes,Master,No,49.9
+S0327,18,Female,Mechanical,13.4,79.6,7.3,82.6,Yes,High School,Yes,77.1
+S0065,20,Male,Computer Science,17.2,66.5,6.2,71.5,Yes,Bachelor,Yes,67.8
+S0301,19,Male,Commerce,14.9,99.1,6.9,78.8,Yes,High School,No,57.4
+S0015,22,Female,Arts,18.4,79.6,9.2,90.8,No,High School,Yes,76.1
+S0157,18,Male,Electronics,5.9,90.5,5.6,39.2,Yes,Master,No,44.3
+S0041,18,Female,Computer Science,10.6,93.2,7.9,80.1,Yes,Bachelor,No,67.5
+S0380,19,Female,Arts,10.6,89.8,7.6,54.0,Yes,Bachelor,No,60.0
+S0485,20,Male,Computer Science,14.9,77.4,7.2,79.3,Yes,Master,Yes,57.7
+S0426,18,Male,Commerce,13.8,95.1,6.2,92.6,No,Bachelor,No,81.0
+S0217,17,Female,Arts,13.4,59.4,5.1,54.6,Yes,High School,Yes,63.0
+S0410,17,Male,Commerce,22.1,80.8,7.0,72.6,Yes,High School,No,70.1
+S0280,17,Male,Electronics,8.6,91.6,6.0,98.5,Yes,Master,No,80.7
+S0455,21,Male,Computer Science,14.9,71.1,6.8,52.2,Yes,Bachelor,Yes,67.1
+S0338,19,Male,Commerce,10.7,65.3,6.7,51.9,No,Bachelor,No,47.3
+S0237,22,Male,Electronics,13.0,79.6,6.8,48.6,Yes,Bachelor,No,50.6
+S0208,24,Male,Mechanical,13.7,92.3,6.8,68.1,Yes,High School,No,69.1
+S0213,23,Female,Computer Science,19.9,73.0,9.1,76.2,Yes,Bachelor,No,74.0
+S0296,21,Male,Electronics,15.8,87.5,6.5,75.4,No,Bachelor,No,67.0
+S0482,23,Male,Mechanical,17.5,57.7,7.8,65.3,No,PhD,No,70.3
+S0252,20,Female,Electronics,15.2,85.8,5.9,42.6,No,Bachelor,Yes,54.0
+S0483,19,Male,Computer Science,12.2,77.8,7.3,46.8,No,Bachelor,Yes,59.2
+S0304,24,Female,Computer Science,22.9,72.1,8.4,79.8,Yes,Master,No,76.9
+S0351,21,Male,Computer Science,9.4,76.3,8.0,60.9,Yes,Master,Yes,64.1
+S0270,21,Female,Electronics,17.0,77.0,6.8,68.6,Yes,Bachelor,Yes,69.9
+S0202,24,Female,Computer Science,9.9,50.100000000000016,8.3,92.2,Yes,Bachelor,No,62.7
+S0162,22,Female,Arts,17.2,58.1,4.1,33.6,Yes,Bachelor,No,42.6
+S0044,19,Male,Computer Science,14.8,100.0,7.1,69.6,Yes,Bachelor,Yes,66.6
+S0218,17,Female,Computer Science,9.4,75.2,7.9,77.2,Yes,Bachelor,Yes,64.9
+S0402,23,Female,Arts,18.2,76.9,6.1,75.5,Yes,High School,No,81.2
+S0191,22,Female,Computer Science,11.5,87.4,5.8,59.3,Yes,Bachelor,No,62.3
+S0310,20,Female,Commerce,13.9,79.2,4.8,54.3,No,Bachelor,Yes,58.4
+S0260,21,Male,Electronics,1.4,100.0,7.4,56.8,Yes,Bachelor,No,55.4
+S0106,23,Female,Electronics,22.1,76.9,6.5,76.8,Yes,Master,Yes,71.8
+S0054,20,Female,Mechanical,19.0,90.1,6.6,89.5,Yes,Bachelor,No,81.9
+S0390,18,Female,Commerce,6.5,89.3,7.0,79.7,Yes,Bachelor,Yes,60.0
+S0002,23,Female,Electronics,6.7,81.5,6.8,65.9,Yes,High School,Yes,60.9
+S0466,24,Male,Mechanical,13.3,75.5,7.3,70.3,Yes,Master,No,67.8
+S0050,23,Female,Commerce,12.3,67.3,6.6,77.4,Yes,Master,No,52.7
+S0420,21,Male,Computer Science,14.9,83.9,6.8,56.3,Yes,Bachelor,Yes,63.0
+S0081,24,Female,Mechanical,16.5,57.8,8.1,80.4,Yes,Bachelor,Yes,72.9
+S0206,19,Male,Arts,15.2,62.4,4.2,77.8,Yes,High School,Yes,71.4
+S0035,24,Female,Arts,14.0,74.1,6.7,62.7,Yes,High School,Yes,65.1
+S0431,17,Male,Commerce,6.0,79.6,8.4,59.4,Yes,Bachelor,Yes,62.6
+S0264,24,Male,Arts,6.3,82.6,7.0,63.2,Yes,Bachelor,Yes,54.9
+S0428,23,Female,Electronics,18.0,76.0,6.7,100.0,Yes,Bachelor,Yes,78.1
+S0499,24,Female,Arts,18.8,95.5,6.7,65.3,Yes,High School,No,85.8
+S0367,20,Female,Computer Science,22.1,84.9,5.7,58.5,Yes,High School,No,64.3
+S0092,23,Female,Commerce,1.0,56.9,6.3,66.5,Yes,Bachelor,No,51.4
+S0340,24,Male,Electronics,14.9,100.0,4.5,63.9,Yes,Master,Yes,67.0
+S0053,19,Female,Arts,10.0,65.4,7.5,39.5,Yes,Bachelor,Yes,46.0
+S0346,19,Male,Electronics,14.1,79.6,8.4,60.6,Yes,Bachelor,No,57.2
+S0265,24,Male,Electronics,14.9,98.9,7.6,56.5,Yes,Bachelor,No,58.7
+S0242,21,Female,Commerce,14.3,67.7,6.9,50.7,Yes,Bachelor,No,58.3
+S0014,23,Male,Computer Science,11.5,73.6,7.4,62.6,Yes,High School,No,57.2
+S0316,22,Female,Arts,18.7,74.3,6.2,68.8,No,Master,No,68.8
+S0089,23,Male,Electronics,18.7,76.3,4.0,65.3,No,PhD,Yes,66.4
+S0388,20,Female,Electronics,14.9,59.4,8.4,57.7,Yes,Bachelor,Yes,67.0
+S0274,24,Female,Mechanical,6.8,70.8,7.7,87.2,No,High School,Yes,64.4
+S0329,18,Female,Mechanical,16.4,100.0,6.4,52.5,Yes,Master,No,58.2
+S0135,23,Male,Computer Science,20.5,75.4,8.5,76.0,Yes,Master,Yes,69.1
+S0320,23,Female,Electronics,8.0,75.2,7.0,70.0,Yes,Master,Yes,52.7
+S0244,22,Male,Computer Science,15.5,65.6,6.1,66.6,Yes,Bachelor,No,69.9
+S0055,20,Female,Computer Science,18.9,69.0,4.8,76.6,Yes,Bachelor,Yes,76.4
+S0364,24,Other,Arts,21.2,80.6,5.7,40.8,Yes,Bachelor,Yes,63.9
+S0051,23,Female,Commerce,14.7,67.4,7.3,57.4,Yes,High School,No,55.7
+S0481,19,Male,Computer Science,7.5,82.1,8.3,65.3,Yes,Master,No,58.6
+S0175,22,Female,Computer Science,17.0,61.3,8.0,59.4,Yes,High School,No,67.3
+S0446,22,Female,Computer Science,15.8,71.1,7.3,55.2,Yes,High School,No,64.6
+S0190,19,Female,Computer Science,12.1,78.4,6.0,57.5,No,Bachelor,No,48.2
+S0464,20,Female,Electronics,17.2,86.1,7.4,67.5,Yes,High School,Yes,66.6
+S0476,23,Male,Arts,20.2,86.6,4.7,45.9,Yes,Bachelor,Yes,68.1
+S0170,20,Female,Mechanical,14.0,81.2,6.2,81.0,Yes,High School,Yes,71.9
+S0059,22,Male,Mechanical,12.8,64.5,7.5,61.6,Yes,Bachelor,No,58.5
+S0475,22,Male,Computer Science,14.2,100.0,8.2,60.0,Yes,Master,No,66.1
+S0049,22,Female,Commerce,19.8,72.4,7.0,57.5,No,High School,Yes,64.0
+S0345,24,Male,Mechanical,19.9,72.8,8.4,55.6,Yes,Bachelor,Yes,63.5
+S0236,22,Male,Arts,11.4,100.0,7.7,81.4,Yes,Bachelor,No,76.2
+S0253,18,Female,Computer Science,7.3,82.9,6.3,84.7,Yes,Master,Yes,60.3
+S0022,19,Male,Mechanical,10.2,91.0,5.7,59.4,No,Bachelor,No,57.9
+S0314,19,Female,Mechanical,14.0,50.100000000000016,6.4,46.0,Yes,Bachelor,No,44.3
+S0460,17,Male,Electronics,17.7,65.4,7.3,65.6,Yes,High School,No,61.7
+S0161,24,Female,Commerce,14.9,67.2,6.4,66.6,Yes,High School,Yes,54.0
+S0277,20,Female,Arts,11.3,84.7,7.7,74.0,Yes,Master,No,68.8
+S0444,20,Male,Arts,4.4,70.3,5.8,61.3,Yes,Bachelor,Yes,60.1
+S0192,22,Male,Commerce,19.2,66.1,5.0,65.6,Yes,High School,No,69.3
+S0386,17,Male,Electronics,8.6,98.5,7.9,73.3,Yes,Master,No,64.7
+S0294,19,Other,Commerce,14.7,66.7,7.2,79.8,Yes,Bachelor,No,66.9
+S0414,18,Male,Computer Science,24.5,73.7,8.4,70.8,Yes,High School,Yes,80.2
+S0344,21,Female,Computer Science,19.6,58.3,7.7,58.4,Yes,Bachelor,Yes,66.0
+S0258,17,Female,Electronics,14.9,76.3,6.3,64.3,Yes,High School,No,77.4
+S0309,19,Female,Mechanical,13.6,81.6,6.8,70.6,No,Bachelor,Yes,60.7
+S0150,17,Male,Mechanical,20.2,92.3,7.3,100.0,Yes,Bachelor,Yes,84.9
+S0131,21,Female,Electronics,8.8,64.3,7.7,55.7,No,Bachelor,No,54.8
+S0152,19,Female,Computer Science,17.3,81.9,8.4,47.4,Yes,High School,Yes,68.0
+S0360,22,Male,Computer Science,14.9,76.9,7.0,75.8,Yes,Bachelor,Yes,75.4
+S0100,18,Male,Arts,17.4,79.9,6.9,57.5,Yes,Master,No,64.8
+S0373,20,Other,Commerce,1.0,78.9,6.9,48.7,No,High School,No,34.0
+S0088,19,Female,Arts,2.5,85.3,5.8,78.6,Yes,High School,No,54.8
+S0459,23,Male,Computer Science,15.8,76.4,6.8,78.7,No,High School,No,69.4
+S0331,21,Female,Computer Science,23.2,63.5,6.8,67.8,No,Bachelor,No,68.1
+S0215,22,Female,Arts,18.9,90.4,6.8,46.1,Yes,High School,No,59.5
+S0467,18,Female,Electronics,6.0,100.0,8.2,51.2,Yes,High School,No,56.5
+S0122,22,Male,Computer Science,26.2,81.1,6.9,63.5,Yes,Bachelor,Yes,78.3
+S0021,21,Male,Computer Science,17.0,73.8,5.8,64.6,Yes,Master,No,66.5
+S0072,18,Female,Mechanical,16.5,94.6,7.2,66.3,Yes,Bachelor,Yes,68.5
+S0107,23,Female,Commerce,10.4,54.7,7.3,43.4,No,Bachelor,Yes,40.0
+S0271,20,Female,Arts,14.9,70.6,6.7,46.5,Yes,Master,No,57.1
+S0436,17,Male,Commerce,14.9,81.5,9.4,68.3,Yes,High School,Yes,69.4
+S0103,23,Female,Arts,13.8,88.0,6.5,44.5,Yes,Bachelor,No,58.7

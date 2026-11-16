@@ -1,0 +1,402 @@
+{
+  "raw_rows": 525,
+  "raw_cols": 12,
+  "missing_raw": {
+    "student_id": 0,
+    "age": 20,
+    "gender": 15,
+    "department": 0,
+    "study_hours_per_week": 32,
+    "attendance_percent": 27,
+    "sleep_hours": 27,
+    "previous_score": 20,
+    "internet_access": 17,
+    "parental_education": 25,
+    "extracurricular": 0,
+    "final_score": 8
+  },
+  "duplicates_found": 25,
+  "invalid_counts": {
+    "age": 3,
+    "study_hours_per_week": 3,
+    "attendance_percent": 3,
+    "sleep_hours": 2,
+    "previous_score": 1,
+    "final_score": 0
+  },
+  "missing_before_fill": {
+    "age": 23,
+    "gender": 15,
+    "study_hours_per_week": 32,
+    "attendance_percent": 27,
+    "sleep_hours": 27,
+    "previous_score": 21,
+    "internet_access": 15,
+    "parental_education": 24
+  },
+  "fill_values": {
+    "age": 20.0,
+    "study_hours_per_week": 14.9,
+    "attendance_percent": 79.6,
+    "sleep_hours": 6.8,
+    "previous_score": 65.3,
+    "gender": "Female",
+    "department": "Computer Science",
+    "internet_access": "Yes",
+    "parental_education": "Bachelor",
+    "extracurricular": "No"
+  },
+  "outlier_report": {
+    "age": {
+      "lower": 14.5,
+      "upper": 26.5,
+      "outliers": 0
+    },
+    "study_hours_per_week": {
+      "lower": -0.1,
+      "upper": 29.5,
+      "outliers": 2
+    },
+    "attendance_percent": {
+      "lower": 50.1,
+      "upper": 107.7,
+      "outliers": 3
+    },
+    "sleep_hours": {
+      "lower": 3.85,
+      "upper": 9.85,
+      "outliers": 0
+    },
+    "previous_score": {
+      "lower": 27.35,
+      "upper": 103.95,
+      "outliers": 1
+    }
+  },
+  "clean_rows": 492,
+  "clean_cols": 12,
+  "log": {
+    "rows_raw": 525,
+    "duplicates_removed": 25,
+    "attendance_text_values_fixed": 37,
+    "impossible_values_set_to_nan": 12,
+    "rows_dropped_missing_target": 8,
+    "missing_values_filled": 184,
+    "outliers_capped": 6,
+    "rows_clean": 492
+  },
+  "corr_target": {
+    "age": -0.029,
+    "study_hours_per_week": 0.543,
+    "attendance_percent": 0.142,
+    "sleep_hours": 0.036,
+    "previous_score": 0.675
+  },
+  "selected_numeric": [
+    "study_hours_per_week",
+    "attendance_percent",
+    "previous_score"
+  ],
+  "dropped_numeric": [
+    "age",
+    "sleep_hours"
+  ],
+  "cat_pvalue": {
+    "gender": 0.5796,
+    "department": 0.8034,
+    "internet_access": 0.2392,
+    "parental_education": 0.9563,
+    "extracurricular": 0.3142
+  },
+  "cat_gap": {
+    "gender": 2.6,
+    "department": 1.84,
+    "internet_access": 1.45,
+    "parental_education": 0.8,
+    "extracurricular": 0.91
+  },
+  "selected_categorical": [],
+  "dropped_categorical": [
+    "gender",
+    "department",
+    "internet_access",
+    "parental_education",
+    "extracurricular"
+  ],
+  "encoding": {
+    "binary": {
+      "No": 0,
+      "Yes": 1
+    },
+    "ordinal": {
+      "High School": 0,
+      "Bachelor": 1,
+      "Master": 2,
+      "PhD": 3
+    },
+    "one_hot_columns": [
+      "department_Commerce",
+      "department_Computer Science",
+      "department_Electronics",
+      "department_Mechanical",
+      "gender_Male",
+      "gender_Other"
+    ]
+  },
+  "scaling_table": [
+    {
+      "feature": "age",
+      "original_min": 17.0,
+      "original_max": 24.0,
+      "minmax_min": 0.0,
+      "minmax_max": 1.0,
+      "zscore_mean": 0.0,
+      "zscore_std": 1.0
+    },
+    {
+      "feature": "study_hours_per_week",
+      "original_min": 1.0,
+      "original_max": 29.5,
+      "minmax_min": 0.0,
+      "minmax_max": 1.0,
+      "zscore_mean": 0.0,
+      "zscore_std": 1.0
+    },
+    {
+      "feature": "attendance_percent",
+      "original_min": 50.1,
+      "original_max": 100.0,
+      "minmax_min": 0.0,
+      "minmax_max": 1.0,
+      "zscore_mean": 0.0,
+      "zscore_std": 1.0
+    },
+    {
+      "feature": "sleep_hours",
+      "original_min": 4.0,
+      "original_max": 9.8,
+      "minmax_min": 0.0,
+      "minmax_max": 1.0,
+      "zscore_mean": -0.0,
+      "zscore_std": 1.0
+    },
+    {
+      "feature": "previous_score",
+      "original_min": 27.35,
+      "original_max": 100.0,
+      "minmax_min": 0.0,
+      "minmax_max": 1.0,
+      "zscore_mean": 0.0,
+      "zscore_std": 1.0
+    }
+  ],
+  "scaling_demo_feature": "study_hours_per_week",
+  "eda_summary": [
+    {
+      "feature": "age",
+      "count": 492.0,
+      "mean": 20.49,
+      "std": 2.24,
+      "min": 17.0,
+      "25%": 19.0,
+      "50%": 20.0,
+      "75%": 22.0,
+      "max": 24.0,
+      "skewness": 0.03
+    },
+    {
+      "feature": "study_hours_per_week",
+      "count": 492.0,
+      "mean": 14.66,
+      "std": 6.05,
+      "min": 1.0,
+      "25%": 11.0,
+      "50%": 14.9,
+      "75%": 18.4,
+      "max": 29.5,
+      "skewness": -0.1
+    },
+    {
+      "feature": "attendance_percent",
+      "count": 492.0,
+      "mean": 78.8,
+      "std": 10.8,
+      "min": 50.1,
+      "25%": 71.7,
+      "50%": 79.6,
+      "75%": 86.1,
+      "max": 100.0,
+      "skewness": -0.15
+    },
+    {
+      "feature": "sleep_hours",
+      "count": 492.0,
+      "mean": 6.82,
+      "std": 1.12,
+      "min": 4.0,
+      "25%": 6.1,
+      "50%": 6.8,
+      "75%": 7.6,
+      "max": 9.8,
+      "skewness": -0.12
+    },
+    {
+      "feature": "previous_score",
+      "count": 492.0,
+      "mean": 65.75,
+      "std": 13.52,
+      "min": 27.35,
+      "25%": 56.08,
+      "50%": 65.3,
+      "75%": 75.22,
+      "max": 100.0,
+      "skewness": 0.15
+    },
+    {
+      "feature": "final_score",
+      "count": 492.0,
+      "mean": 64.09,
+      "std": 9.97,
+      "min": 34.0,
+      "25%": 57.4,
+      "50%": 64.25,
+      "75%": 70.32,
+      "max": 100.0,
+      "skewness": 0.01
+    }
+  ],
+  "cat_counts": {
+    "gender": {
+      "Female": 245,
+      "Male": 230,
+      "Other": 17
+    },
+    "department": {
+      "Computer Science": 156,
+      "Commerce": 95,
+      "Electronics": 94,
+      "Arts": 81,
+      "Mechanical": 66
+    },
+    "internet_access": {
+      "Yes": 414,
+      "No": 78
+    },
+    "parental_education": {
+      "Bachelor": 220,
+      "High School": 169,
+      "Master": 82,
+      "PhD": 21
+    },
+    "extracurricular": {
+      "No": 257,
+      "Yes": 235
+    }
+  },
+  "group_tables": {
+    "department": [
+      {
+        "department": "Arts",
+        "count": 81,
+        "mean": 65.02,
+        "median": 63.9
+      },
+      {
+        "department": "Electronics",
+        "count": 94,
+        "mean": 64.41,
+        "median": 65.15
+      },
+      {
+        "department": "Mechanical",
+        "count": 66,
+        "mean": 64.17,
+        "median": 64.25
+      },
+      {
+        "department": "Computer Science",
+        "count": 156,
+        "mean": 63.92,
+        "median": 64.2
+      },
+      {
+        "department": "Commerce",
+        "count": 95,
+        "mean": 63.19,
+        "median": 63.8
+      }
+    ],
+    "internet_access": [
+      {
+        "internet_access": "Yes",
+        "count": 414,
+        "mean": 64.32,
+        "median": 64.4
+      },
+      {
+        "internet_access": "No",
+        "count": 78,
+        "mean": 62.87,
+        "median": 63.7
+      }
+    ],
+    "extracurricular": [
+      {
+        "extracurricular": "Yes",
+        "count": 235,
+        "mean": 64.56,
+        "median": 65.0
+      },
+      {
+        "extracurricular": "No",
+        "count": 257,
+        "mean": 63.65,
+        "median": 63.8
+      }
+    ]
+  },
+  "observations": {
+    "strongest_feature": "previous_score",
+    "strongest_r": 0.675,
+    "weakest_feature": "age",
+    "weakest_r": -0.029,
+    "mean_final": 64.08577235772357,
+    "median_final": 64.25,
+    "std_final": 9.974497052948339,
+    "internet_means": {
+      "No": 62.9,
+      "Yes": 64.3
+    }
+  },
+  "full_ready_shape": [
+    492,
+    15
+  ],
+  "full_ready_columns": [
+    "age",
+    "study_hours_per_week",
+    "attendance_percent",
+    "sleep_hours",
+    "previous_score",
+    "internet_access",
+    "parental_education",
+    "extracurricular",
+    "final_score",
+    "department_Commerce",
+    "department_Computer Science",
+    "department_Electronics",
+    "department_Mechanical",
+    "gender_Male",
+    "gender_Other"
+  ],
+  "ml_ready_columns": [
+    "study_hours_per_week",
+    "attendance_percent",
+    "previous_score",
+    "final_score"
+  ],
+  "ml_ready_shape": [
+    492,
+    4
+  ]
+}
